@@ -1,6 +1,6 @@
 # XSURFACE - Premium Tile E-Commerce Platform
  
- A modern e-commerce platform for premium tiles and building materials, built with React and Node.js following Clean Architecture principles.
+ A modern e-commerce platform for premium tiles and building materials, built with React and Node.js.
 
 ## Features
 
@@ -24,28 +24,28 @@
 ### Frontend
 | Technology | Version | Expertise Level | Description |
 |------------|---------|-----------------|-------------|
-| React | 18.3 | Advanced | Component-based UI with hooks |
-| TypeScript | 5.4 | Advanced | Type-safe development |
-| Vite | 5.4 | Intermediate | Fast build tool and dev server |
-| Tailwind CSS | 3.4 | Advanced | Utility-first CSS framework |
-| Lucide React | 0.429 | Intermediate | Modern icon library |
-| React Context API | - | Advanced | Global state management |
+| React | 18.3 | Beginner | Component-based UI with hooks |
+| TypeScript | 5.4 | Beginner | Type-safe development |
+| Vite | 5.4 | Beginner | Fast build tool and dev server |
+| Tailwind CSS | 3.4 | Beginner | Utility-first CSS framework |
+| Lucide React | 0.429 | Beginner | Modern icon library |
+| React Context API | - | Beginner | Global state management |
 
 ### Backend
 | Technology | Version | Expertise Level | Description |
 |------------|---------|-----------------|-------------|
-| Node.js | 18+ | Advanced | JavaScript runtime |
-| Express.js | 4.x | Advanced | Web framework for API |
-| MongoDB | 7.0 | Advanced | NoSQL database |
-| Mongoose | 8.x | Advanced | MongoDB ODM |
+| Node.js | 18+ | Intermediate | JavaScript runtime |
+| Express.js | 4.x | Beginner | Web framework for API |
+| MongoDB | 7.0 | Beginner | NoSQL database |
+| Mongoose | 8.x | Beginner | MongoDB ODM |
 
 ### Architecture & Patterns
 | Pattern | Expertise Level | Description |
 |---------|-----------------|-------------|
-| Clean Architecture | Advanced | Separation of concerns with layers |
-| Custom Hooks | Advanced | Reusable business logic (useProducts, useProductSearch) |
-| Memoization | Intermediate | React.memo and useMemo for performance |
-| RESTful API | Advanced | Standard HTTP methods for CRUD |
+| Clean Architecture | Intermediate | Separation of concerns with layers |
+| Custom Hooks | Beginner | Reusable business logic (useProducts, useProductSearch) |
+| Memoization | Beginner | React.memo and useMemo for performance |
+| RESTful API | Beginner | Standard HTTP methods for CRUD |
 
 ## Project Structure
 
